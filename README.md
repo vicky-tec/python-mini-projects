@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-tec&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-tec" /> </p>
 
-- 🔭 I’m currently working on **vicky_24a12res756@iitp.ac.in**
+- 🔭 I’m currently working on **Travally: An Intelligent Travel Assistant for Bihar**
 
 - 🌱 I’m currently learning **PYTHON**
 
@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky-tec&show_icons=true&locale=en&layout=compact" alt="vicky-tec" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky-tec&show_icons=true&locale=en" alt="vicky-tec" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vicky-tec&" alt="vicky-tec" /></p>
