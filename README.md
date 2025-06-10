@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-tec&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-tec" /> </p>
 
-- 🔭 I’m currently working on **Travally: An Intelligent Travel Assistant for Bihar**
+- 🔭 I’m currently working on [Travally: An Intelligent Travel Assistant for Bihar](https://vicky-tec.github.io/TRAVALLY_/)
 
 - 🌱 I’m currently learning **PYTHON**
 
