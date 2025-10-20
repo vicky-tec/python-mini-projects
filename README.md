@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm VICKY RAJ</h1>
-<h3 align="center">A  passionate GenFrontend developer from India</h3>
+<h1 align="center">🧪 Python Mini Projects & Code Practice</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vicky-tec&label=Profile%20views&color=0e75b6&style=flat" alt="vicky-tec" /> </p>
-
-- 🔭 I’m currently working on [Travally: An Intelligent Travel Assistant for Bihar](https://vicky-tec.github.io/TRAVALLY_/)
-
-- 🌱 I’m currently learning **PYTHON**
-
-- My Projects [CitizenRight](https://github.com/vicky-tec/CitizenRight_)
-
-- My projects [UdaanCart](https://github.com/vicky-tec/UdaanCart.io)
-
-- 👨‍💻 All of my projects are available at [https://github.com/vicky-tec/](https://github.com/vicky-tec/)
-
-- 📫 How to reach me **vickyrazzz81@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/disturbgaming5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="disturbgaming5" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vicky-raj-090760282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vicky-raj-090760282" height="30" width="40" /></a>
-<a href="https://instagram.com/vr_razzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vr_razzz" height="30" width="40" /></a>
+<p align="center">
+  This repository is my personal Python playground — a collection of bite-sized projects, code experiments, and hands-on practice sessions. From data wrangling and automation to visualization and logic building, each script reflects my growing expertise in Python.  
+  <br>
+  💡 Whether you're curious about my coding style, problem-solving approach, or just want to see how much Python I know — this is the place to explore!
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vicky-tec&show_icons=true&locale=en&layout=compact" alt="vicky-tec" /></p>
+## 💼 Projects Overview  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vicky-tec&show_icons=true&locale=en" alt="vicky-tec" /></p>
+| Project | Description | Tools Used | Uploaded |
+|----------|--------------|-------------|-----------|
+| **📦 Flipkart_Analysis** | Flipkart Big Billion Days dashboard analyzing sales trends, revenue, and customer behavior. | Python, Pandas, Seaborn, Matplotlib | <span id="flipkart-days"></span> days ago |
+| **🛒 E-commerce Analysis** | Dashboard visualizing product sales, customer orders, and profit distribution. | Excel, Power BI | <span id="ecommerce-days"></span> days ago |
+| **⚡ Blinkit_DASHBOARD** | Sales and delivery performance analysis dashboard for Blinkit. | Power BI | <span id="blinkit-days"></span> days ago |
+| **🧾 Retail-Sales-Analysis-SQL-Project--P2_vr** | SQL-based retail analysis focusing on revenue and customer segmentation. | SQL | <span id="retail-days"></span> days ago |
+| **🧍‍♂️ Customer-Churn-analysis-main** | Churn prediction project identifying factors behind customer loss. | Python, Pandas, Matplotlib | <span id="churn-days"></span> days ago |
+| **🥗 Gresorey** | Grocery store sales analysis with focus on seasonal buying trends. | Excel, Power BI | <span id="gresorey-days"></span> days ago |
+| **🎓 Student Addiction Data** | Behavioral data analysis of student activities and habits. | Excel, Python | <span id="student-days"></span> days ago |
+| **💰 Tip Analysis** | Analyzed restaurant tipping patterns and customer spending habits. | Python, Seaborn | <span id="tip-days"></span> days ago |
+| **📘 Excel_Analysis.xlsx** | Excel-based data exploration with pivot tables and charts. | Excel | <span id="excel-days"></span> days ago |
+
+---
+
+### ⚙️ How it works
+Below is an example snippet using **JavaScript** to dynamically calculate days since upload:
+
+```html
+<script>
+  const projects = {
+    flipkart: "2025-10-18",
+    ecommerce: "2025-05-20",
+    blinkit: "2025-05-20",
+    retail: "2025-04-20",
+    churn: "2025-04-20",
+    gresorey: "2025-09-20",
+    student: "2025-08-20",
+    tip: "2025-06-20",
+    excel: "2025-01-15"
+  };
+
+  const today = new Date();
+
+  Object.keys(projects).forEach(id => {
+    const uploadDate = new Date(projects[id]);
+    const diffTime = Math.abs(today - uploadDate);
+    const diffDays = Math.floor(diffTime / (1000 * 60 * 60 * 24));
+    document.getElementById(`${id}-days`).innerText = diffDays;
+  });
+</script>
